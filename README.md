@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/s27730503" target="blank"><img src="https://img.shields.io/twitter/follow/s27730503?logo=twitter&style=for-the-badge" alt="s27730503" /></a> </p>
 
-- 🔭 I’m currently working on Building Community [SOS TECH Inc](https://chat.whatsapp.com/DVoNSW6FKsOEVdYYnRZXqS)
+- 🔭 I’m currently working on Building Community [SOS TECH Inc](https://chat.whatsapp.com/L7b540VGdJu3EAgwkGONd0)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
