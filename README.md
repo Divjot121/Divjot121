@@ -5,14 +5,14 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=divjot121" alt="divjot121" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/singhdivjot10" target="blank"><img src="https://img.shields.io/twitter/follow/s27730503?logo=twitter&style=for-the-badge" alt="singhdivjot10" /></a> </p>
+<p align="left"> <a href="https://twitter.com/singhdivjot10" target="blank"><img src="https://img.shields.io/twitter/follow/singhdivjot10?logo=twitter&style=for-the-badge" alt="singhdivjot10" /></a> </p>
 
 - 🔭 I’m currently working on Building Community [SOS TECH Inc](https://chat.whatsapp.com/L7b540VGdJu3EAgwkGONd0)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/@divjot121" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="@divjot121" height="30" width="40" /></a>
-<a href="https://twitter.com/singhdivjot10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="s27730503" height="30" width="40" /></a>
+<a href="https://twitter.com/singhdivjot10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="singhdivjot10" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/divjot-arora-65a615225" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="divjot-arora-65a615225" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/17383937/divjot-singh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="17383937/divjot-singh" height="30" width="40" /></a>
 <a href="https://instagram.com/sostechinc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sostechinc" height="30" width="40" /></a>
