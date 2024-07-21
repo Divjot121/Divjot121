@@ -19,7 +19,7 @@ Founder & CEO @ SOS TECH Group | Author | Full Stack Developer, Java And Python 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### ✍️ Live Tweets
-<a href="https://github.com/VishwaGauravIn/github-twitter-card-embed"><img src="https://gtce.itsvg.in/api?username=divjot121&theme=dracula&response=true&border=true&time=true&icon=default"/></a>
+[![](https://gtce.itsvg.in/api?username=divjot121&theme=dracula&response=true&border=true&time=true&icon=default)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=divjot121&limit=5&theme=dark&combine_all_yearly_contributions=true)
