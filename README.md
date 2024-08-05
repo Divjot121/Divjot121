@@ -9,9 +9,13 @@
    <img src="https://komarev.com/ghpvc/?username=divjot121&color=blue" alt="visit count"/>
 </div>
 
-<div align="center">
-  <p align="center"> <a href="https://twitter.com/divjot121" target="blank"><img src="https://img.shields.io/twitter/follow/divjot121?logo=twitter&style=for-the-badge" alt="divjot121" /></a> </p>
-  </div>
+
+  <p align="center"> 
+     <a href="http://twitter.com/divjot121">
+    <img src="https://img.shields.io/badge/follow-%40divjot121%20130k+-1DA1F2?label=Twitter&logo=twitter&style=for-the-badge&color=1A8CD8" alt="Divjot's Twitter"/>
+  </a>
+  </p>
+
 
 
 - 🔭 I’m currently working on **SOS AI Project**
