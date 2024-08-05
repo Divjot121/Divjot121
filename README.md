@@ -6,7 +6,7 @@
 </div>
 
 <div align="center">
-   ![](https://komarev.com/ghpvc/?username=your-github-username&color=green)
+   <img src="https://komarev.com/ghpvc/?username=your-github-username&color=blue" alt="visit count"/>
 </div>
 
 <div align="center">
