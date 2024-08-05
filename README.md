@@ -37,6 +37,12 @@
   <img src="https://github-trophies.vercel.app/?username=divjot121&column=6&margin-w=15&margin-h=15" alt="github trophies"/>
 </div>
 
+### Latest Twitter Posts
+<!--TWITTER:START -->
+- [What Is Flutter? How To Get into it](https://divjot121.medium.com/what-is-flutter-how-to-get-into-it-343cc8232a93?source=rss-b54bcf2ee12c------2)
+- [Divjot Singh Arora — Young Entrepreneur](https://divjot121.medium.com/divjot-singh-arora-young-entrepreneur-b0c79a8f1c06?source=rss-b54bcf2ee12c------2)
+<!-- TWITTER:END -->
+
 ### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [What Is Flutter? How To Get into it](https://divjot121.medium.com/what-is-flutter-how-to-get-into-it-343cc8232a93?source=rss-b54bcf2ee12c------2)
