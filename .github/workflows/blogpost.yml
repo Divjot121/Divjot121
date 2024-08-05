@@ -1,10 +1,13 @@
-name: Latest blog post workflow
+name: Blog Post
 on: 
+    push:
     schedule:
-        - cron: '0 * * * *'
+        - cron: '30 * * * *'
+    workflow_dispatch:
+    
 jobs: 
     update-readme-with-blog: 
-        name: Update this repo's README with latest blog posts
+        name: latest posts from Blog
         runs-on: ubuntu-latest
         steps: 
             - uses: actions/checkout@v2
@@ -12,4 +15,4 @@ jobs:
               with: 
                 comment_tag_name: "BLOG-POST-LIST"
                 max_post_count: "4"
-                feed_list: "https://dev.to/feed/divjot121, https://medium.com/feed/@divjot121, https://rss.app/feeds/1w8g6ygmiwjelfkc.xml"
+                feed_list: "https://medium.com/feed/@divjot121, https://rss.app/feeds/1w8g6ygmiwjelfkc.xml"
