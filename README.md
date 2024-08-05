@@ -32,6 +32,7 @@
 
 - **Keep Supporting Me!**
 
+### My Github Trophies
 <div align="center">
   <img src="https://github-trophies.vercel.app/?username=divjot121&column=6&margin-w=15&margin-h=15" alt="github trophies"/>
 </div>
