@@ -30,7 +30,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=divjot121" alt="divjot121" /></a> </p>
 
-### Youtube Videos
+### Latest Youtube Videos
 <!-- YOUTUBE-VIDEOS-LIST:START -->
 - [How to Create Stunning AI-Powered Presentations with Gamma AI | Step-by-Step Guide!](https://www.youtube.com/watch?v=QlVxH9YJ7wc)
 - [React JS Crash Course || Basics In 2 Hours🔥 || ft - @praveenscience || Beginner Friendly || SOS TECH](https://www.youtube.com/watch?v=3nh-D4MJqo0)
