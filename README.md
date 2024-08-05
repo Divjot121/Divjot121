@@ -6,7 +6,7 @@
 </div>
 
 <div align="center">
-  [![](https://visitcount.itsvg.in/api?id=Divjot121&label=Profile%20Views&color=6&pretty=true)](https://visitcount.itsvg.in)
+  <img src="https://visitcount.itsvg.in/api?id=Divjot121&label=Profile%20Views&color=6&pretty=true" alt="visit count"/>
 </div>
 
 <div align="center">
