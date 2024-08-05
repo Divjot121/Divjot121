@@ -9,6 +9,10 @@
   <img src="https://visitcount.itsvg.in/api?id=divjot121&icon=8&color=1" alt="visit count"/>
 </div>
 
+<div align="center">
+  <img src="https://github-trophies.vercel.app/?username=divjot121&column=6&margin-w=15&margin-h=15" alt="github trophies"/>
+</div>
+
 <p align="left"> <a href="https://twitter.com/divjot121" target="blank"><img src="https://img.shields.io/twitter/follow/divjot121?logo=twitter&style=for-the-badge" alt="divjot121" /></a> </p>
 
 
