@@ -30,7 +30,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=divjot121" alt="divjot121" /></a> </p>
 
-### Twitter Posts
+### Youtube Videos
 <!-- YOUTUBE-VIDEOS-LIST:START --><tr><td><a href="https://www.youtube.com/watch?v=QlVxH9YJ7wc"><img width="140px" src="https://i.ytimg.com/vi/QlVxH9YJ7wc/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=QlVxH9YJ7wc">How to Create Stunning AI-Powered Presentations with Gamma AI | Step-by-Step Guide!</a> (Jun 10, 2024)<br/></td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=3nh-D4MJqo0"><img width="140px" src="https://i.ytimg.com/vi/3nh-D4MJqo0/mqdefault.jpg"></a></td>
