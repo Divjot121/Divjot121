@@ -5,6 +5,8 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 </div>
 
+<div align="center">
+  
 
   <p align="center"> 
      <a href="http://twitter.com/divjot121">
@@ -16,6 +18,7 @@
     <a href="http://youtube.com/@sostechgroups">
       <img src="https://img.shields.io/youtube/channel/subscribers/UCdffsu_s9AOQdYvMWuNFvAg?style=for-the-badge&logo=youtube&label=Youtube&color=FF0000" alt="Divjot's YouTube channel"/>
   </p>
+  </div>
 
 
 
