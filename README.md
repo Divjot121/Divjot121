@@ -6,7 +6,7 @@
 </div>
 
 <div align="center">
-   <img src="https://komarev.com/ghpvc/?username=your-github-username&color=blue" alt="visit count"/>
+   <img src="https://komarev.com/ghpvc/?username=divjot121&color=blue" alt="visit count"/>
 </div>
 
 <div align="center">
