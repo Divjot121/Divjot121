@@ -15,4 +15,4 @@ jobs:
               with: 
                 comment_tag_name: "BLOG-POST-LIST"
                 max_post_count: "4"
-                feed_list: "https://medium.com/feed/@divjot121, https://rss.app/feeds/1w8g6ygmiwjelfkc.xml"
+                feed_list: "https://medium.com/feed/@divjot121"
