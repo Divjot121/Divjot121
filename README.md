@@ -30,8 +30,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=divjot121" alt="divjot121" /></a> </p>
 
-### Blogs posts
+### Twitter Posts
 <!-- BLOG-POST-LIST:START -->
+[![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=divjot121)](https://github.com/gazf/github-readme-twitter)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
