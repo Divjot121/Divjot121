@@ -53,11 +53,14 @@
 <!-- BLOG-POST-LIST:END -->
 
 ### ▶️ Latest Youtube Videos
-<!-- YOUTUBE-VIDEOS-LIST:START -->
-- [How to Create Stunning AI-Powered Presentations with Gamma AI | Step-by-Step Guide!](https://www.youtube.com/watch?v=QlVxH9YJ7wc)
-- [React JS Crash Course || Basics In 2 Hours🔥 || ft - @praveenscience || Beginner Friendly || SOS TECH](https://www.youtube.com/watch?v=3nh-D4MJqo0)
-- [Google&#39;s Gemini  Overview #ai #gemini](https://www.youtube.com/watch?v=qfqFO66BH4w)
-- [Coming Soon](https://www.youtube.com/watch?v=mYBkYk4NDRM)
+<!-- YOUTUBE-VIDEOS-LIST:START --><tr><td><a href="https://www.youtube.com/watch?v=QlVxH9YJ7wc"><img width="140px" src="https://i.ytimg.com/vi/QlVxH9YJ7wc/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=QlVxH9YJ7wc">How to Create Stunning AI-Powered Presentations with Gamma AI | Step-by-Step Guide!</a> (Jun 10, 2024)<br/></td></tr>
+<tr><td><a href="https://www.youtube.com/watch?v=3nh-D4MJqo0"><img width="140px" src="https://i.ytimg.com/vi/3nh-D4MJqo0/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=3nh-D4MJqo0">React JS Crash Course || Basics In 2 Hours🔥 || ft - @praveenscience || Beginner Friendly || SOS TECH</a> (Feb 24, 2024)<br/></td></tr>
+<tr><td><a href="https://www.youtube.com/watch?v=qfqFO66BH4w"><img width="140px" src="https://i.ytimg.com/vi/qfqFO66BH4w/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=qfqFO66BH4w">Google&#39;s Gemini  Overview #ai #gemini</a> (Feb 19, 2024)<br/></td></tr>
+<tr><td><a href="https://www.youtube.com/watch?v=mYBkYk4NDRM"><img width="140px" src="https://i.ytimg.com/vi/mYBkYk4NDRM/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=mYBkYk4NDRM">Coming Soon</a> (Feb 19, 2024)<br/></td></tr>
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
