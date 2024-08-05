@@ -32,25 +32,25 @@
 
 - **Keep Supporting Me!**
 
-### My Github Trophies
+### 🏆 My Github Trophies
 <div align="center">
   <img src="https://github-trophies.vercel.app/?username=divjot121&column=6&margin-w=15&margin-h=15" alt="github trophies"/>
 </div>
 
-### Latest Twitter Posts
+### 📱 Latest Tweets
 <!-- TWITTER:START -->
 - [@Divjot121: #Day 20 of #100daysofcodechallenge Today I solved 15 pattern questions using loops. Here is the GitHub repo link -  #100DaysChallenge #100daysofcodechallenge #buildingpublic #LearnInPublic #java #x #cfbr #LiNKEDiN](https://twitter.com/Divjot121/status/1820179096036413602)
 - [@Divjot121: RT @Divjot121: Guys, I took the challenge to complete 500 followers this month and 1500 posts! I am doing 1500 posts which is in my control…](https://twitter.com/Divjot121/status/1820033268072247486)
 - [@Divjot121: 🌟 Proud to share my journey! 🌟 At 14, I’ve come a long way since starting at 10 in 2020. Founder &amp; CEO @ SOS TECH Groups | Author of 3 books 📚 | Full Stack Dev | Growth Lead at GDG Ludhiana 🚀 | Google Crowdsource Speaker at Josh Talks &lpar;2023&rpar; 🎤 + many interviews](https://twitter.com/Divjot121/status/1819670795976589487)
 <!-- TWITTER:END -->
 
-### Latest Blog Posts
+### 👨‍💻 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [What Is Flutter? How To Get into it](https://divjot121.medium.com/what-is-flutter-how-to-get-into-it-343cc8232a93?source=rss-b54bcf2ee12c------2)
 - [Divjot Singh Arora — Young Entrepreneur](https://divjot121.medium.com/divjot-singh-arora-young-entrepreneur-b0c79a8f1c06?source=rss-b54bcf2ee12c------2)
 <!-- BLOG-POST-LIST:END -->
 
-### Latest Youtube Videos
+### ▶️ Latest Youtube Videos
 <!-- YOUTUBE-VIDEOS-LIST:START -->
 - [How to Create Stunning AI-Powered Presentations with Gamma AI | Step-by-Step Guide!](https://www.youtube.com/watch?v=QlVxH9YJ7wc)
 - [React JS Crash Course || Basics In 2 Hours🔥 || ft - @praveenscience || Beginner Friendly || SOS TECH](https://www.youtube.com/watch?v=3nh-D4MJqo0)
