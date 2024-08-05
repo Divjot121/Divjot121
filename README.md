@@ -9,7 +9,9 @@
   <img src="https://visitcount.itsvg.in/api?id=divjot121&icon=8&color=1" alt="visit count"/>
 </div>
 
-<p align="left"> <a href="https://twitter.com/divjot121" target="blank"><img src="https://img.shields.io/twitter/follow/divjot121?logo=twitter&style=for-the-badge" alt="divjot121" /></a> </p>
+<div align="center">
+  <p align="left"> <a href="https://twitter.com/divjot121" target="blank"><img src="https://img.shields.io/twitter/follow/divjot121?logo=twitter&style=for-the-badge" alt="divjot121" /></a> </p>
+  </div>
 
 
 - 🔭 I’m currently working on **SOS AI Project**
