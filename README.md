@@ -30,6 +30,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=divjot121" alt="divjot121" /></a> </p>
 
+### Latest Blog Posts
+<!-- BLOG-POST-LIST:START -->
+
+<!-- BLOG-POST-LIST:END -->
+
 ### Latest Youtube Videos
 <!-- YOUTUBE-VIDEOS-LIST:START -->
 - [How to Create Stunning AI-Powered Presentations with Gamma AI | Step-by-Step Guide!](https://www.youtube.com/watch?v=QlVxH9YJ7wc)
