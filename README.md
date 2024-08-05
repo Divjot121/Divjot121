@@ -5,14 +5,11 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 </div>
 
-<div align="center">
-   <img src="https://komarev.com/ghpvc/?username=divjot121&color=blue" alt="visit count"/>
-</div>
-
 
   <p align="center"> 
      <a href="http://twitter.com/divjot121">
     <img src="https://img.shields.io/badge/follow-%40divjot121%20250+-1DA1F2?label=Twitter&logo=twitter&style=for-the-badge&color=1A8CD8" alt="Divjot's Twitter"/>
+    <img src="https://komarev.com/ghpvc/?username=divjot121&color=blue" alt="visit count"/>
   </a>
   </p>
 
