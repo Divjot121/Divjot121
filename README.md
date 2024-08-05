@@ -5,7 +5,7 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 </div>
   
-
+<p align="center"> 
   <p align="left"> 
      <a href="http://twitter.com/divjot121">
     <img src="https://img.shields.io/badge/follow-%40divjot121%20250+-1DA1F2?label=Twitter&logo=twitter&style=for-the-badge&color=1A8CD8" alt="Divjot's Twitter"/>
@@ -19,7 +19,10 @@
   <p align="right"> 
     <a href="http://youtube.com/@sostechgroups">
       <img src="https://img.shields.io/youtube/channel/subscribers/UCdffsu_s9AOQdYvMWuNFvAg?style=for-the-badge&logo=youtube&label=Youtube&color=FF0000" alt="Divjot's YouTube channel"/>
+      </a>
   </p>
+</p>
+    
 
 
 
