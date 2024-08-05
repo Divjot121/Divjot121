@@ -6,7 +6,7 @@
 </div>
 
 <div align="center">
-  <img src="https://visitcount.itsvg.in/api?id=Divjot121&label=Profile%Views&color=6&pretty=true" alt="visit count"/>
+  <img src="https://visitcount.itsvg.in/api?id=Divjot121&label=ProfileViews&color=6&pretty=true" alt="visit count"/>
 </div>
 
 <div align="center">
