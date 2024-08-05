@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://ibb.co/NVDL4Cd.png" style="border-radius: 60px;">
+<img src="https://imgur.com/a/MBfnuNm.png" style="border-radius: 60px;">
 <h1 align="center">Hi 👋, I'm Divjot Singh Arora</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
