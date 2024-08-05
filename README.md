@@ -31,8 +31,14 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=divjot121" alt="divjot121" /></a> </p>
 
 ### Twitter Posts
-<!-- YOUTUBE-VIDEOS-LIST:START --> 
-
+<!-- YOUTUBE-VIDEOS-LIST:START --><tr><td><a href="https://www.youtube.com/watch?v=QlVxH9YJ7wc"><img width="140px" src="https://i.ytimg.com/vi/QlVxH9YJ7wc/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=QlVxH9YJ7wc">How to Create Stunning AI-Powered Presentations with Gamma AI | Step-by-Step Guide!</a> (Jun 10, 2024)<br/></td></tr>
+<tr><td><a href="https://www.youtube.com/watch?v=3nh-D4MJqo0"><img width="140px" src="https://i.ytimg.com/vi/3nh-D4MJqo0/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=3nh-D4MJqo0">React JS Crash Course || Basics In 2 Hours🔥 || ft - @praveenscience || Beginner Friendly || SOS TECH</a> (Feb 24, 2024)<br/></td></tr>
+<tr><td><a href="https://www.youtube.com/watch?v=qfqFO66BH4w"><img width="140px" src="https://i.ytimg.com/vi/qfqFO66BH4w/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=qfqFO66BH4w">Google&#39;s Gemini  Overview #ai #gemini</a> (Feb 19, 2024)<br/></td></tr>
+<tr><td><a href="https://www.youtube.com/watch?v=mYBkYk4NDRM"><img width="140px" src="https://i.ytimg.com/vi/mYBkYk4NDRM/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=mYBkYk4NDRM">Coming Soon</a> (Feb 19, 2024)<br/></td></tr>
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
