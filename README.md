@@ -1,7 +1,9 @@
-[![MasterHead](https://ibb.co/NVDL4Cd)](https://divjotsingh.com)
+<div align="center">
+<img src="https://ibb.co/NVDL4Cd" style="border-radius: 60px;">
 <h1 align="center">Hi 👋, I'm Divjot Singh Arora</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+</div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=divjot121&label=Profile%20views&color=0e75b6&style=flat" alt="divjot121" /> </p>
 
@@ -24,12 +26,26 @@
 
 - ⚡ Fun fact **Coding distresses me**
 
-- Keep Supporting Me!
+- **Keep Supporting Me!**
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=divjot121" alt="divjot121" /></a> </p>
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+name: Latest blog post workflow
+on: 
+    schedule:
+        - cron: '0 * * * *'
+jobs: 
+    update-readme-with-blog: 
+        name: Update this repo's README with latest blog posts
+        runs-on: ubuntu-latest
+        steps: 
+            - uses: actions/checkout@v2
+            - uses: gautamkrishnar/blog-post-workflow@master
+              with: 
+                max_post_count: "4"
+                feed_list: "https://dev.to/feed/divjot121, https://medium.com/feed/@divjot121, https://rss.app/feeds/1w8g6ygmiwjelfkc.xml"
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
