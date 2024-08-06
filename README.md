@@ -42,11 +42,11 @@
 
 ### 📱 Latest Tweets
 <!-- TWITTER:START -->
-- [@Divjot121: What&#39;s your whatsapp version? Mine:](https://twitter.com/Divjot121/status/1820511135533015463)
-- [@Divjot121: Rate my GitHub profile readme out of 10 in comments Link -](https://twitter.com/Divjot121/status/1820484638202323121)
-- [@Divjot121: I am really confused guys Vs Code Vs Intelli J Idea Ultimate &lpar; Student Edition &rpar; which one is best for java development?](https://twitter.com/Divjot121/status/1820467035291423206)
-- [@Divjot121: Guys record broken 🫨 I did 8 hours of code tommorow and solved 20+ pattern questions and 10 other practice problems.](https://twitter.com/Divjot121/status/1820453601250361560)
-- [@Divjot121: I dare you to share your computer&#39;s screentime screenshot](https://twitter.com/Divjot121/status/1820403324836876548)
+- [@Divjot121: something is cooking Guess what it is?](https://twitter.com/Divjot121/status/1820824515846238610)
+- [@Divjot121: We are in last era 😢 Credits:- @elonmusk](https://twitter.com/Divjot121/status/1820774635371167957)
+- [@Divjot121: Believe it or not, Edge is the best browser for everything because of its AI capabilities. What&#39;s your opinion?](https://twitter.com/Divjot121/status/1820769225943740560)
+- [@Divjot121: Now engagement rate is finally in green but impressions and profile visits are in red 😢](https://twitter.com/Divjot121/status/1820768388135706802)
+- [@Divjot121: Follow me for follow back 😁](https://twitter.com/Divjot121/status/1820766122083566052)
 <!-- TWITTER:END -->
 
 ### 👨‍💻 Latest Blog Posts
