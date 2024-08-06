@@ -42,11 +42,11 @@
 
 ### 📱 Latest Tweets
 <!-- TWITTER:START -->
+- [@Divjot121: What&#39;s your whatsapp version? Mine:](https://twitter.com/Divjot121/status/1820511135533015463)
+- [@Divjot121: Rate my GitHub profile readme out of 10 in comments Link -](https://twitter.com/Divjot121/status/1820484638202323121)
+- [@Divjot121: I am really confused guys Vs Code Vs Intelli J Idea Ultimate &lpar; Student Edition &rpar; which one is best for java development?](https://twitter.com/Divjot121/status/1820467035291423206)
+- [@Divjot121: Guys record broken 🫨 I did 8 hours of code tommorow and solved 20+ pattern questions and 10 other practice problems.](https://twitter.com/Divjot121/status/1820453601250361560)
 - [@Divjot121: I dare you to share your computer&#39;s screentime screenshot](https://twitter.com/Divjot121/status/1820403324836876548)
-- [@Divjot121: #Day 20 of #100daysofcodechallenge Today I solved 15 pattern questions using loops. Here is the GitHub repo link - github.com/Divjot121/lear… #100DaysChallenge #100daysofcodechallenge #buildingpublic #LearnInPublic #java #x #cfbr #LiNKEDiN](https://twitter.com/Divjot121/status/1820179096036413602)
-- [@Divjot121: What are your views on the broadcasting regulation bill 2024?](https://twitter.com/Divjot121/status/1820112388550451480)
-- [@singhdivjot10: RT by @divjot121: Sure!](https://twitter.com/singhdivjot10/status/1820034241071108329)
-- [@s27730503: RT by @divjot121: Best of luck 👍](https://twitter.com/s27730503/status/1820034010736730516)
 <!-- TWITTER:END -->
 
 ### 👨‍💻 Latest Blog Posts
