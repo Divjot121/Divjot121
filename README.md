@@ -42,11 +42,11 @@
 
 ### 📱 Latest Tweets
 <!-- TWITTER:START -->
+- [@Divjot121: #Day 22 of #100daysofcodechallenge Today I learnt about local vars and scopes. Here is the GitHub repo link -](https://twitter.com/Divjot121/status/1820974947973644707)
 - [@Divjot121: something is cooking Guess what it is?](https://twitter.com/Divjot121/status/1820824515846238610)
 - [@Divjot121: We are in last era 😢 Credits:- @elonmusk](https://twitter.com/Divjot121/status/1820774635371167957)
+- [@Hiteshdotcom: RT by @divjot121: Benefits of Clone Projects-: A Confidence Booster](https://twitter.com/Hiteshdotcom/status/1820770576543216068)
 - [@Divjot121: Believe it or not, Edge is the best browser for everything because of its AI capabilities. What&#39;s your opinion?](https://twitter.com/Divjot121/status/1820769225943740560)
-- [@Divjot121: Now engagement rate is finally in green but impressions and profile visits are in red 😢](https://twitter.com/Divjot121/status/1820768388135706802)
-- [@Divjot121: Follow me for follow back 😁](https://twitter.com/Divjot121/status/1820766122083566052)
 <!-- TWITTER:END -->
 
 ### 👨‍💻 Latest Blog Posts
