@@ -42,11 +42,11 @@
 
 ### 📱 Latest Tweets
 <!-- TWITTER:START -->
-- [@Divjot121: #Day 22 of #100daysofcodechallenge Today I learnt about local vars and scopes. Here is the GitHub repo link -](https://twitter.com/Divjot121/status/1820974947973644707)
-- [@Divjot121: something is cooking Guess what it is?](https://twitter.com/Divjot121/status/1820824515846238610)
-- [@Divjot121: We are in last era 😢 Credits:- @elonmusk](https://twitter.com/Divjot121/status/1820774635371167957)
-- [@Hiteshdotcom: RT by @divjot121: Benefits of Clone Projects-: A Confidence Booster](https://twitter.com/Hiteshdotcom/status/1820770576543216068)
-- [@Divjot121: Believe it or not, Edge is the best browser for everything because of its AI capabilities. What&#39;s your opinion?](https://twitter.com/Divjot121/status/1820769225943740560)
+- [@Divjot121: As programmers, When do you feel more productive?](https://twitter.com/Divjot121/status/1821334401638162585)
+- [@Divjot121: Good Morning Guy&#39;s 🌄](https://twitter.com/Divjot121/status/1821334039128895999)
+- [@Divjot121: Top 5 Projects in Core Java ✨ Check the comments below:](https://twitter.com/Divjot121/status/1821221488995004456)
+- [@Divjot121: Bruh!](https://twitter.com/Divjot121/status/1821220751657361901)
+- [@Divjot121: Python-&gt; Java -&gt; Android Dev -&gt; Web Dev My biggest mistake in my life i learnt all of these together now very confused that&#39;s why starting again with java than full web dev than android dev 👍 So advise for beginners jump in 1 lang first and master that. P.S -Am Also Begginer](https://twitter.com/Divjot121/status/1821200797880730003)
 <!-- TWITTER:END -->
 
 ### 👨‍💻 Latest Blog Posts
