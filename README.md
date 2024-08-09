@@ -42,11 +42,11 @@
 
 ### 📱 Latest Tweets
 <!-- TWITTER:START -->
-- [@Divjot121: As programmers, When do you feel more productive?](https://twitter.com/Divjot121/status/1821334401638162585)
-- [@Divjot121: Good Morning Guy&#39;s 🌄](https://twitter.com/Divjot121/status/1821334039128895999)
-- [@Divjot121: Top 5 Projects in Core Java ✨ Check the comments below:](https://twitter.com/Divjot121/status/1821221488995004456)
-- [@Divjot121: Bruh!](https://twitter.com/Divjot121/status/1821220751657361901)
-- [@Divjot121: Python-&gt; Java -&gt; Android Dev -&gt; Web Dev My biggest mistake in my life i learnt all of these together now very confused that&#39;s why starting again with java than full web dev than android dev 👍 So advise for beginners jump in 1 lang first and master that. P.S -Am Also Begginer](https://twitter.com/Divjot121/status/1821200797880730003)
+- [@Divjot121: Finally All Green with 0.1% 😂](https://twitter.com/Divjot121/status/1821522806657479071)
+- [@Divjot121: understanding the fundamentals. 🧠 Start with the basics—OOP concepts, data types, and loops. Everything else builds on this foundation! #Java #Programming](https://twitter.com/Divjot121/status/1821505391861100544)
+- [@Divjot121: Under 1000 followers? Let&#39;s connect 😁](https://twitter.com/Divjot121/status/1821504047607693769)
+- [@Star_Knight12: RT by @divjot121: What&#39;s the most unexpected thing you&#39;ve learned while coding? 🤔](https://twitter.com/Star_Knight12/status/1821494062022545808)
+- [@Divjot121: As programmers, When do you feel more productive?](https://twitter.com/Divjot121/status/1821481687752094109)
 <!-- TWITTER:END -->
 
 ### 👨‍💻 Latest Blog Posts
