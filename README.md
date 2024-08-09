@@ -42,11 +42,11 @@
 
 ### 📱 Latest Tweets
 <!-- TWITTER:START -->
-- [@Divjot121: Finally All Green with 0.1% 😂](https://twitter.com/Divjot121/status/1821522806657479071)
-- [@Divjot121: understanding the fundamentals. 🧠 Start with the basics—OOP concepts, data types, and loops. Everything else builds on this foundation! #Java #Programming](https://twitter.com/Divjot121/status/1821505391861100544)
-- [@Divjot121: Under 1000 followers? Let&#39;s connect 😁](https://twitter.com/Divjot121/status/1821504047607693769)
-- [@Star_Knight12: RT by @divjot121: What&#39;s the most unexpected thing you&#39;ve learned while coding? 🤔](https://twitter.com/Star_Knight12/status/1821494062022545808)
-- [@Divjot121: As programmers, When do you feel more productive?](https://twitter.com/Divjot121/status/1821481687752094109)
+- [@Divjot121: Which is the best coding youtuber in india and worldwide ???](https://twitter.com/Divjot121/status/1821973472551301318)
+- [@Abhinav4190: RT by @divjot121: Have you seen these types of people? Real vs Reel 😂](https://twitter.com/Abhinav4190/status/1821904859198845052)
+- [@Divjot121: What&#39;s the biggest lie of life?](https://twitter.com/Divjot121/status/1821899878299013323)
+- [@Divjot121: It&#39;s mixture 😂](https://twitter.com/Divjot121/status/1821891009627779551)
+- [@Divjot121: What are the major difficulties you faced while learning programming?](https://twitter.com/Divjot121/status/1821699538580574613)
 <!-- TWITTER:END -->
 
 ### 👨‍💻 Latest Blog Posts
