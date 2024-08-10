@@ -21,7 +21,7 @@
 
 - 🌱 I’m currently learning **Java**
 
-- 👨‍💻 All of my projects are available at [https://bento.me/divjot121/](https://bento.me/divjot121/)
+- 👨‍💻 All of my projects are available at [https://www.divjotsingh.com/](https://www.divjotsingh.com/)
 
 - 📝 I regularly write articles on [divjot121.medium.com](divjot121.medium.com)
 
