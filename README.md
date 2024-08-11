@@ -42,11 +42,11 @@
 
 ### 📱 Latest Tweets
 <!-- TWITTER:START -->
+- [@Divjot121: Relatable enough 😂?](https://twitter.com/Divjot121/status/1822179430313169103)
+- [@Divjot121: 🚀 Excited to share that I’ve finally launched my portfolio, built with React + Vite JS! 🎉 Check it out at divjotsingh.com and let me know what do you think about this! #WebDevelopment #ReactJS #ViteJS #Portfolio](https://twitter.com/Divjot121/status/1822141664258891789)
 - [@Divjot121: Which is the best coding youtuber in india and worldwide ???](https://twitter.com/Divjot121/status/1821973472551301318)
 - [@Abhinav4190: RT by @divjot121: Have you seen these types of people? Real vs Reel 😂](https://twitter.com/Abhinav4190/status/1821904859198845052)
 - [@Divjot121: What&#39;s the biggest lie of life?](https://twitter.com/Divjot121/status/1821899878299013323)
-- [@Divjot121: It&#39;s mixture 😂](https://twitter.com/Divjot121/status/1821891009627779551)
-- [@Divjot121: What are the major difficulties you faced while learning programming?](https://twitter.com/Divjot121/status/1821699538580574613)
 <!-- TWITTER:END -->
 
 ### 👨‍💻 Latest Blog Posts
