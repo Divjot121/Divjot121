@@ -42,11 +42,11 @@
 
 ### 📱 Latest Tweets
 <!-- TWITTER:START -->
-- [@Divjot121: Relatable enough 😂?](https://twitter.com/Divjot121/status/1822179430313169103)
-- [@Divjot121: 🚀 Excited to share that I’ve finally launched my portfolio, built with React + Vite JS! 🎉 Check it out at divjotsingh.com and let me know what do you think about this! #WebDevelopment #ReactJS #ViteJS #Portfolio](https://twitter.com/Divjot121/status/1822141664258891789)
-- [@Divjot121: Which is the best coding youtuber in india and worldwide ???](https://twitter.com/Divjot121/status/1821973472551301318)
-- [@Abhinav4190: RT by @divjot121: Have you seen these types of people? Real vs Reel 😂](https://twitter.com/Abhinav4190/status/1821904859198845052)
-- [@Divjot121: What&#39;s the biggest lie of life?](https://twitter.com/Divjot121/status/1821899878299013323)
+- [@orca_so: RT by @divjot121: 6/ Thread #3 by @rohitscript If you like it, leave it a ❤️ x.com/rohitscript/st…](https://twitter.com/orca_so/status/1824114233019400675)
+- [@Divjot121: Well, Today I worked on myself read self-development books, marketing technologies and much more this day was very insightful learnt so many things today 🔥](https://twitter.com/Divjot121/status/1824106272955703419)
+- [@Divjot121: My brother made this in Minecraft 😹 #minecraft建築コミュ #Independence](https://twitter.com/Divjot121/status/1824094357445562677)
+- [@Divjot121: Give me some project ideas to make in java?](https://twitter.com/Divjot121/status/1824066718487978400)
+- [@Divjot121: How can we contribute more in our country&#39;s growth?](https://twitter.com/Divjot121/status/1824035311384510730)
 <!-- TWITTER:END -->
 
 ### 👨‍💻 Latest Blog Posts
