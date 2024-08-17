@@ -42,11 +42,11 @@
 
 ### 📱 Latest Tweets
 <!-- TWITTER:START -->
-- [@orca_so: RT by @divjot121: 6/ Thread #3 by @rohitscript If you like it, leave it a ❤️ x.com/rohitscript/st…](https://twitter.com/orca_so/status/1824114233019400675)
-- [@Divjot121: Well, Today I worked on myself read self-development books, marketing technologies and much more this day was very insightful learnt so many things today 🔥](https://twitter.com/Divjot121/status/1824106272955703419)
-- [@Divjot121: My brother made this in Minecraft 😹 #minecraft建築コミュ #Independence](https://twitter.com/Divjot121/status/1824094357445562677)
-- [@Divjot121: Give me some project ideas to make in java?](https://twitter.com/Divjot121/status/1824066718487978400)
-- [@Divjot121: How can we contribute more in our country&#39;s growth?](https://twitter.com/Divjot121/status/1824035311384510730)
+- [@Divjot121: Hello everyone 😴](https://twitter.com/Divjot121/status/1824565171047616820)
+- [@Divjot121: @ashadahmed_ Thanks bro 😁](https://twitter.com/Divjot121/status/1824513704165257480)
+- [@Divjot121: @ashadahmed_ Amazing 🤩](https://twitter.com/Divjot121/status/1824513430591770832)
+- [@Divjot121: @Star_Knight12 Same to you 🙌](https://twitter.com/Divjot121/status/1824513237192413664)
+- [@Divjot121: @CoderMatte @AnshulSoni2010 Thanks 👍](https://twitter.com/Divjot121/status/1824506759584555243)
 <!-- TWITTER:END -->
 
 ### 👨‍💻 Latest Blog Posts
