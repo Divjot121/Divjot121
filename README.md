@@ -42,11 +42,11 @@
 
 ### 📱 Latest Tweets
 <!-- TWITTER:START -->
-- [@Divjot121: Hello everyone 😴](https://twitter.com/Divjot121/status/1824565171047616820)
-- [@Divjot121: @ashadahmed_ Thanks bro 😁](https://twitter.com/Divjot121/status/1824513704165257480)
-- [@Divjot121: @ashadahmed_ Amazing 🤩](https://twitter.com/Divjot121/status/1824513430591770832)
-- [@Divjot121: @Star_Knight12 Same to you 🙌](https://twitter.com/Divjot121/status/1824513237192413664)
-- [@Divjot121: @CoderMatte @AnshulSoni2010 Thanks 👍](https://twitter.com/Divjot121/status/1824506759584555243)
+- [@Divjot121: @AnshulSoni2010 @arcinternet @MicrosoftEdge Microsoft Edge for sure ✨](https://twitter.com/Divjot121/status/1824842762455289887)
+- [@Divjot121: @Star_Knight12 😂](https://twitter.com/Divjot121/status/1824842544871834045)
+- [@Divjot121: @AnshulSoni2010 @figma Amazing 🤩](https://twitter.com/Divjot121/status/1824842450290307231)
+- [@Divjot121: @avigdorku Link not working](https://twitter.com/Divjot121/status/1824842364109873174)
+- [@Divjot121: @Itstheanurag Oh okay 👍👍](https://twitter.com/Divjot121/status/1824806824266149945)
 <!-- TWITTER:END -->
 
 ### 👨‍💻 Latest Blog Posts
