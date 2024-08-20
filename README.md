@@ -42,11 +42,11 @@
 
 ### 📱 Latest Tweets
 <!-- TWITTER:START -->
-- [@Divjot121: @AnshulSoni2010 @arcinternet @MicrosoftEdge Microsoft Edge for sure ✨](https://twitter.com/Divjot121/status/1824842762455289887)
-- [@Divjot121: @Star_Knight12 😂](https://twitter.com/Divjot121/status/1824842544871834045)
-- [@Divjot121: @AnshulSoni2010 @figma Amazing 🤩](https://twitter.com/Divjot121/status/1824842450290307231)
-- [@Divjot121: @avigdorku Link not working](https://twitter.com/Divjot121/status/1824842364109873174)
-- [@Divjot121: @Itstheanurag Oh okay 👍👍](https://twitter.com/Divjot121/status/1824806824266149945)
+- [@Divjot121: RT @Divjot121: Hello Everyone! Introducing you to our SAAS Application - EasyEdit PDF India&#39;s first AI_Powered Free Online PDF Editor, Con…](https://twitter.com/Divjot121/status/1824378063817412982)
+- [@Divjot121: @https_Maaz @AnshulSoni2010 Thanks ji 😀](https://twitter.com/Divjot121/status/1825438148970889430)
+- [@Divjot121: @tashzz12 Thanks 🙏](https://twitter.com/Divjot121/status/1825438086303830101)
+- [@Divjot121: @SarthakTechie @AnshulSoni2010 Thanks buddy 😊](https://twitter.com/Divjot121/status/1825437130362896755)
+- [@Divjot121: @WhyTheLetter_N Same to you](https://twitter.com/Divjot121/status/1825433104233988263)
 <!-- TWITTER:END -->
 
 ### 👨‍💻 Latest Blog Posts
