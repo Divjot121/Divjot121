@@ -42,11 +42,11 @@
 
 ### 📱 Latest Tweets
 <!-- TWITTER:START -->
-- [@Divjot121: RT @Divjot121: Hello Everyone! Introducing you to our SAAS Application - EasyEdit PDF India&#39;s first AI_Powered Free Online PDF Editor, Con…](https://twitter.com/Divjot121/status/1824378063817412982)
-- [@Divjot121: @https_Maaz @AnshulSoni2010 Thanks ji 😀](https://twitter.com/Divjot121/status/1825438148970889430)
-- [@Divjot121: @tashzz12 Thanks 🙏](https://twitter.com/Divjot121/status/1825438086303830101)
-- [@Divjot121: @SarthakTechie @AnshulSoni2010 Thanks buddy 😊](https://twitter.com/Divjot121/status/1825437130362896755)
-- [@Divjot121: @WhyTheLetter_N Same to you](https://twitter.com/Divjot121/status/1825433104233988263)
+- [@Divjot121: Today was the second day of init by @appwrite and they have announced new cli which was much needed 🙌 Congratulations to the @appwrite team and specially @adityaoberai1 @eldadfux Waiting for further announcements eagerly ✨!](https://twitter.com/Divjot121/status/1825969309828657267)
+- [@Divjot121: @1Surabhi12 Welcome bro 😁](https://twitter.com/Divjot121/status/1825968776573235263)
+- [@Divjot121: @ashadahmed_ Thanks bro 😊](https://twitter.com/Divjot121/status/1825968731773874475)
+- [@Divjot121: @AdityaS79983107 😂](https://twitter.com/Divjot121/status/1825950906141274179)
+- [@Divjot121: @sonam_murarkar Yes saying but schools are open tom idk what&#39;s going on](https://twitter.com/Divjot121/status/1825943327205896313)
 <!-- TWITTER:END -->
 
 ### 👨‍💻 Latest Blog Posts
