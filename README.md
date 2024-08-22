@@ -42,11 +42,11 @@
 
 ### 📱 Latest Tweets
 <!-- TWITTER:START -->
-- [@Divjot121: Today was the second day of init by @appwrite and they have announced new cli which was much needed 🙌 Congratulations to the @appwrite team and specially @adityaoberai1 @eldadfux Waiting for further announcements eagerly ✨!](https://twitter.com/Divjot121/status/1825969309828657267)
-- [@Divjot121: @1Surabhi12 Welcome bro 😁](https://twitter.com/Divjot121/status/1825968776573235263)
-- [@Divjot121: @ashadahmed_ Thanks bro 😊](https://twitter.com/Divjot121/status/1825968731773874475)
-- [@Divjot121: @AdityaS79983107 😂](https://twitter.com/Divjot121/status/1825950906141274179)
-- [@Divjot121: @sonam_murarkar Yes saying but schools are open tom idk what&#39;s going on](https://twitter.com/Divjot121/status/1825943327205896313)
+- [@Divjot121: @ashadahmed_ Amritsari Kulcha 😂😂](https://twitter.com/Divjot121/status/1826324288464716088)
+- [@Divjot121: @sureshsenthil_ 😋](https://twitter.com/Divjot121/status/1826324134667976815)
+- [@Divjot121: @appwrite Let&#39;s goo!](https://twitter.com/Divjot121/status/1826309197920657794)
+- [@Divjot121: @whatswithgg Cool!](https://twitter.com/Divjot121/status/1826308926586880198)
+- [@Divjot121: @ColdsireSetup Haha absolutely i have tried it but kaju katli Hits different ❤️](https://twitter.com/Divjot121/status/1826306174662443492)
 <!-- TWITTER:END -->
 
 ### 👨‍💻 Latest Blog Posts
