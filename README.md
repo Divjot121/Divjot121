@@ -63,8 +63,8 @@
 <td><a href="https://www.youtube.com/watch?v=3nh-D4MJqo0">React JS Crash Course || Basics In 2 Hours🔥 || ft - @praveenscience || Beginner Friendly</a> (Feb 24, 2024)<br/></td></tr>
 <tr><td><a href="https://www.youtube.com/shorts/qfqFO66BH4w"><img width="140px" src="https://i.ytimg.com/vi/qfqFO66BH4w/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/shorts/qfqFO66BH4w">Google&#39;s Gemini  Overview #ai #gemini</a> (Feb 19, 2024)<br/></td></tr>
-<tr><td><a href="https://www.youtube.com/shorts/mYBkYk4NDRM"><img width="140px" src="https://i.ytimg.com/vi/mYBkYk4NDRM/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/shorts/mYBkYk4NDRM">Coming Soon</a> (Feb 19, 2024)<br/></td></tr>
+<tr><td><a href="https://www.youtube.com/watch?v=mYBkYk4NDRM"><img width="140px" src="https://i.ytimg.com/vi/mYBkYk4NDRM/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=mYBkYk4NDRM">Coming Soon</a> (Feb 19, 2024)<br/></td></tr>
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 </table>
 
